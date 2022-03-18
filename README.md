@@ -37,7 +37,7 @@ Este projeto foi criado com objetivo de avaliação dos alunos, foram utilizadas
 
 Adicione o link para assistir ao vídeo do projeto funcionando.
 
-[Link para o video youtube](https://https://youtu.be/BII9iq8sUKE)
+[Link para o video youtube](https://youtu.be/wcI-IXIzCQg)
 
 
 ### Referências 
