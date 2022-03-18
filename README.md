@@ -4,19 +4,23 @@ Esse é um guia simples, o grupo pode e deve modificar o template conforme neces
 
 # Nome do projeto
 
-**nome dos alunos:** 
+**nome dos alunos:** Thiago Montanari Mateus
 
-**Turma:**
+**Turma:** Sistemas de Informação
 
-**Ano:**
+**Ano:** 4SIA
 
 ## Objetivo / descrição do Projeto
 
 Explique de forma clara qual o objeto deste projeto, para que serve e comente as principais tecnologias utilizadas. 
+Eu usei python, e o objetivo é tirar nota mesmo.
 
 ## Diagrama do projeto
 
 Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
+![image](https://user-images.githubusercontent.com/62015531/158923303-b702d067-caa5-424e-9211-047637eb5725.png)
+![image](https://user-images.githubusercontent.com/62015531/158923328-6e00374f-84c7-45b5-aab2-2d296415487a.png)
+
 
 <img src="/imagem.jpg" width="550">
 
@@ -27,6 +31,10 @@ Explique como rodar o seu projeto. Quais programas instalar, como configurar...
 
 * Pode ser utilizado marcadores
 * Para ajudar na formatação
+* Instalar visual studio code
+* instalar jupyter notebook
+* instalar python
+* e quaisquer dependencias
 
 Ou qualquer outra tabulação:
 
