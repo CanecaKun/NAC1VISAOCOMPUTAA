@@ -3,7 +3,7 @@
 # Nome do projeto 
 Nac 1 Visão Computacional
 
-**nome dos alunos:** Thiago Montanari Mateus
+**nome dos alunos:** Thiago Montanari Mateus e Gabriel de Castro Saconi
 
 **Turma:** Sistemas de Informação
 
